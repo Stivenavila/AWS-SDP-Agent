@@ -30,7 +30,7 @@ El agente puede:
 ### Opción B — Desde ruta local
 
 ```bash
-git clone https://github.com/tu-org/power-aws-sdp.git
+git clone https://github.com/Stivenavila/AWS-SDP-Agent.git
 ```
 
 1. Abre el panel de **Powers** en Kiro
